@@ -1,2 +1,2 @@
-#Shoe Shop
-##My first web (HTML - CSS) project
+# Shoe Shop
+## My first web (HTML - CSS) project
